@@ -11,4 +11,4 @@ I am an undergraduate student majoring in Mathematics at China Agricultural Univ
 
 The research I am conducting is about the green transformation of China's auto market, and technological innovation and development of artificial intelligence. 
 
-I believe that ideas are the true forces that govern the world, and the study of economics holds the power to reduce global inequality. 
+I believe that, as Keynes noted, the ideas of economists and political philosophers are the true forces that rule our world, and economics can serve as a tool to reduce global inequality. 
