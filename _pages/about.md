@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome！"
+title: "Abount me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am an undergraduate student majoring in Mathematics at China Agricultural University, and I am expected to graduate in 2026. My research interest includes Political Economy, Development Economics and Industrial Organization. 
+
+The research I am conducting is about The green transformation of China's auto market, and technological innovation and development of artificial intelligence. 
 
