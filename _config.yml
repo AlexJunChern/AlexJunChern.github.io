@@ -13,7 +13,7 @@ title                    : "Alexander Jun Chern"
 title_separator          : "-"
 name                     : &name "Alexander Jun Chern"
 description              : &description "personal description"
-url                      : https://AlexJunChern.github.io # the base hostname & protocol for your site e.g. "https://AlexJunChern.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://alexjunchern.github.io # the base hostname & protocol for your site e.g. "https://AlexJunChern.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ repository               : "academicpages/academicpages.github.io"
   pronouns         : # example: "she/her"  
   bio              : "A loser"
   location         : "Earth"
-  uri              : # URL
+  uri              : "https://alexjunchern.github.io"
   email            : "none@example.org" 
 
   # Academic websites
