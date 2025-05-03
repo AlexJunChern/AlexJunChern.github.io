@@ -13,4 +13,4 @@ The research I am conducting focuses on the green transformation of China’s au
 
 I believe, as Keynes observed, that “the ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood.” These ideas are the true forces that rule our world. Economics should serve as a tool to understand our world and to reduce pervasive inequalities. 
 
-![My open source project AlEconX](/images/AlEconX.png)
+<img src="/images/AlEconX.png" alt="My open source project AlEconX" width="300" />
